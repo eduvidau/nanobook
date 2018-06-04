@@ -35,7 +35,7 @@ is_inner_planet = False     # boolean
 
 ## Declaring variables with initial values
 
-When values are written into a program literally, the syntax determines their type. Putting quotation marks around a value will **declare** it as a string. Using a floating point (decimal point) will declare a numerical value as a string.
+When values are written into a program literally, the syntax determines their type. Putting quotation marks around a value will **declare** it as a string. Using a floating point (decimal point) will declare a numerical value as a float.
 
 ```python
 # declaring an initial string value and assigning it to a variable
